@@ -1,0 +1,17 @@
+INSERT INTO staff (staff_id, first_name, last_name, Designation, hourly_rate) VALUES
+('st0001', 'Mindy', 'Sloan', 'Chef', 17.25),
+('st0002', 'Luqman', 'Cantu', 'Head chef', 21.50),
+('st0003', 'Seren', 'Lindsey', 'Chef', 17.25),
+('st0004', 'Arran', 'Hodgson', 'Head chef', 21.50),
+('st0005', 'Talha', 'Portillo', 'Chef', 17.25),
+('st0006', 'Sana', 'Black', 'Head chef', 21.50),
+('st0007', 'Zachery', 'Robins', 'Chef', 17.25),
+('st0008', 'Faraz', 'Peck', 'Head chef', 21.50),
+('st0009', 'Lilly-Rose', 'Vaughn', 'Delivery rider', 14.50),
+('st0010', 'Desiree', 'Gardner', 'Delivery rider', 14.50),
+('st0011', 'Ivan', 'English', 'Delivery rider', 14.50),
+('st0012', 'Johnathon', 'Bradford', 'Delivery rider', 14.50),
+('st0013', 'Matilda', 'Mccarty', 'Delivery rider', 14.50),
+('st0014', 'Areeb', 'Vasquez', 'Delivery rider', 14.50),
+('st0015', 'Amiyah', 'Lambert', 'Delivery rider', 14.50),
+('st0016', 'Amrit', 'Greaves', 'Delivery rider', 14.50);
